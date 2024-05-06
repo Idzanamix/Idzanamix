@@ -2,6 +2,8 @@
   <img src="https://github.com/Idzanamix/MirrorReddit/assets/161015715/bc804b37-484c-4921-9faa-05acc33a4178" width="60" />
   Hello everyone, I'm <a href="https://github.com/Idzanamix" target="_blank">Idzanamix</a> 
 <h3 align="center">Frontend software engineer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+software+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 
 Here are some ideas to get you started:
