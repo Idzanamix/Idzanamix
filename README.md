@@ -1,9 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h1 align="center">
+  <img src="https://github.com/Idzanamix/MirrorReddit/assets/161015715/bc804b37-484c-4921-9faa-05acc33a4178" width="60" />
+  Hello everyone, I'm <a href="https://github.com/Idzanamix" target="_blank">Idzanamix</a> 
+<h3 align="center">Frontend software engineer</h3>
 
-<!--
-**Idzanamix/Idzanamix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
