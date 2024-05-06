@@ -20,5 +20,7 @@ I am  Igor, a Frontend Software Engineer <img src="https://media.giphy.com/media
 
 - :zap: In my free time, I read useful articles on habr or reddit.
 
+- 🎆 My sites: https://reddinamix.fun, https://pomodorix.ru
+
 - :mailbox:How to reach me: <a href="mailto:shmellis@yandex.ru">Email</a>, <a href="https://t.me/idzanamix">Telegram</a>
 
