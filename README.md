@@ -14,13 +14,25 @@
 I am  Igor, a Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 
-- :telescope: I am developing the interface of the React application.
+- :telescope: I am developing the interface of the React application
 
-- :seedling: Graduated from STANKIN Moscow State Technical University.
+- :seedling: Graduated from STANKIN Moscow State Technical University
 
-- :zap: In my free time, I read useful articles on habr or reddit.
+- :zap: In my free time, I read useful articles on habr or reddit
 
 - 🎆 My sites: https://reddinamix.fun, https://pomodorix.ru
 
 - :mailbox:How to reach me: <a href="mailto:shmellis@yandex.ru">Email</a>, <a href="https://t.me/idzanamix">Telegram</a>
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
