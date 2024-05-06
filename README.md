@@ -15,7 +15,7 @@ I am  Igor, a Frontend Software Engineer <img src="https://media.giphy.com/media
 
 - :seedling: Graduated from STANKIN Moscow State Technical University.
 
-- :zap: In my free time, I read useful articles on habr.com.
+- :zap: In my free time, I read useful articles on habr or reddit.
 
 - :mailbox:How to reach me: <a href="mailto:shmellis@yandex.ru">Email</a>, <a href="https://t.me/idzanamix">Telegram</a>
 
