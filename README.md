@@ -7,9 +7,12 @@
   </a>
 </h3>
 
-<img src="https://komarev.com/ghpvc/?username=Idzanamix&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Idzanamix&style=flat-square&color=blue" alt="" />  ![Static Badge](https://img.shields.io/badge/Idzanamix-Idzanamix-Idzanamix)
+![GitHub Repo stars](https://img.shields.io/github/stars/Idzanamix/Idzanamix)
+![GitHub issues](https://img.shields.io/github/issues/Idzanamix/Idzanamix)
 
 I am  Igor, a Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
 
 - :telescope: I am developing the interface of the React application.
 
