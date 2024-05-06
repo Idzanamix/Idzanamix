@@ -9,13 +9,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=Idzanamix&style=flat-square&color=blue" alt=""/>
 
-I am a Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am  Igor, a Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I am developing the interface of the React application.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Graduated from STANKIN Moscow State Technical University.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I read useful articles on habr.com.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: <a href="mailto:shmellis@yandex.ru">Email</a> 
 
