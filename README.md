@@ -57,6 +57,6 @@ I am  Igor, a Frontend Software Engineer <img src="https://media.giphy.com/media
 ### :fire: My Stats :
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Idzanamix&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Idzanamix)](https://git.io/streak-stats)
 
 
